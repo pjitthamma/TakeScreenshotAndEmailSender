@@ -1,0 +1,60 @@
+D:\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe.config
+D:\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe
+D:\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.pdb
+D:\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.dll
+D:\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.Support.dll
+D:\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.xml
+D:\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.Support.xml
+D:\EmailSender\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.exe
+D:\EmailSender\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.pdb
+D:\Deployment Tracking\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe.config
+D:\Deployment Tracking\EmailSender\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.exe
+D:\Deployment Tracking\EmailSender\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.pdb
+D:\Deployment Tracking\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe
+D:\Deployment Tracking\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.pdb
+D:\Deployment Tracking\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.dll
+D:\Deployment Tracking\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.Support.dll
+D:\Deployment Tracking\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.xml
+D:\Deployment Tracking\EmailSender\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.Support.xml
+D:\Deployment Tracking\EmailSender\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.csprojResolveAssemblyReference.cache
+D:\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe.config
+D:\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.exe
+D:\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.pdb
+D:\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe
+D:\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.pdb
+D:\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.dll
+D:\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.Support.dll
+D:\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.xml
+D:\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.Support.xml
+C:\Users\pjitthamma\Desktop\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe.config
+C:\Users\pjitthamma\Desktop\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.exe
+C:\Users\pjitthamma\Desktop\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.pdb
+C:\Users\pjitthamma\Desktop\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe
+C:\Users\pjitthamma\Desktop\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.pdb
+C:\Users\pjitthamma\Desktop\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.dll
+C:\Users\pjitthamma\Desktop\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.Support.dll
+C:\Users\pjitthamma\Desktop\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.xml
+C:\Users\pjitthamma\Desktop\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.Support.xml
+C:\Users\pjitthamma\Desktop\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.csprojResolveAssemblyReference.cache
+D:\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.csprojResolveAssemblyReference.cache
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe.config
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.pdb
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\Antlr3.Runtime.dll
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\Newtonsoft.Json.dll
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\System.Web.Optimization.dll
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.dll
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.Support.dll
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebGrease.dll
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\Antlr3.Runtime.pdb
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\Newtonsoft.Json.xml
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\System.Web.Optimization.xml
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.xml
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\WebDriver.Support.xml
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.exe
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.pdb
+C:\AutomateTools\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.csprojResolveAssemblyReference.cache
+C:\AutomateTools\MINE\DeploymentEmailSender\DeploymentEmailSender\bin\Debug\DeploymentEmailSender.exe.config
+C:\AutomateTools\MINE\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.exe
+C:\AutomateTools\MINE\DeploymentEmailSender\DeploymentEmailSender\obj\Debug\DeploymentEmailSender.pdb
